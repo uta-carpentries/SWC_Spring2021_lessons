@@ -4,38 +4,17 @@ Software Carpentry Workshop
 Lesson 1: Introduction to Python
 ----  
 
-SWC workshop, February 2018  
-Instructor: Balan Ramesh  
-Time: 3 hours  
+Let's make a folder `SWC_spring2021` on your Desktop. We will be working with this folder for the next 2 days so it is better if you leave it on the Desktop where it is easily accesible.
 
----
-
-Good morning! I welcome you all to the workshop once again and I am glad you could make it safe to the workshop in such a rainy weather.
-I am Balan Ramesh. I am a graduate student in Dr. Demuth's lab here in UTA. I am interested in studying Sex chromosome evolution in Tribolium species. I work on whole genome sequences and I use various tools including programming languages Python, Shell and R.
-
-Now before we get started with python, I want to decide the pace of my lessons, so that its easy for most you. So, I would like to know how many of you have no programming experience? 
-How many of you have some programming experience?
-
-I can say this workshop will be of immense help to people with no programming experience and for people with some programming experience, I assume the later parts of the workshop will be of great use.
-
-Let's make a folder `SWC_spring2018` on your Desktop. We will be working with this folder for the next 2 days so it is better if you leave it on the Desktop where it is easily accesible. It also helps for everyone to have the folder in the same location as it will make it easier to navigate to your files when we start using command line interface later today.
-
-:+1: Do it with students and make sure everyone is with you - put up red sticky notes if having problems, green when done with the task. 
 
 Now let's download datasets (Data.zip) for the workshop and put it in `SWC_spring2018` folder. You should find the link to the datasets in the etherpad. Its a zip file.
 
 [Dataset](https://raw.githubusercontent.com/AnnaWilliford/2017-11-11-UTA/gh-pages/workshop/SWC_fall2017/Data.zip)
 
 When you unzip this file, you should have `Data` folder with `ByCountry` folder and `gapminder.txt` file in it.
-Make sure to cut or copy this to `SWC_spring2018` folder.
+Make sure to cut or copy this to `SWC_spring2021` folder.
 
 :+1: 
-
-Finally, let's make another folder called  `Python_basics` inside `SWC_spring2018` folder. This is where we will save all files for this lesson.
-
-Once you have this folder, let us copy `gapminder.txt` to the `Python_basics folder`.
-
-:+1:
 
 Now we are ready to work with Python.
 
