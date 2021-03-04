@@ -81,48 +81,6 @@ import math
 math.sqrt(64)
 ```
 
-Similarly, we can use python shell in interactive mode which opens as follows.
-
-
-## Python Shell
-
-Open a new tab in the terminal and type `python` and hit enter.
-This should open python in interactive mode with `>>>` as shown.
-
-
-When you type commands in the terminal/console window and press 'ENTER', they are executed immediately and the output is displayed. Here are few examples:  
-
-```python
-3+5
-print("Welcome All !!!")
-import math
-math.sqrt(64) 
-```
-
-Symbol `>>>` means that the python is ready for the next command. If you enter incomplete commands, python will show SyntaxError or a Nameerror. 
-
-Alright then, now we have Jupyter Notebook as Integrated Development Environment (IDE) and Python Shell in interactive mode.
-
-**Is it same or is it different?** - Same.
-
-**Do we need jupyter notebook for python programming?** - No, it is not needed.
-
-Now that brings us to the next question.
-
-**Which one should I use?**
-
-## IDE for Python vs Interactive/Scripting Mode
-
-Functionality is all the same. 
-
-- But the advantage of Jupyter Notebook or any IDE for that matter is that, it integrates the work of a text editor and an interpreter for the language.  
-- Also since it has a Graphical User Interface (GUI), it helps user to navigate through files and folders easier comparing the Python shell. 
-- Further, More importantly, there are other functions and advantages like creating reports, exporting as markdown or pdf file, which we will discuss later during the course of the workshop.
-
-For this workshop we will be working with Jupyter Notebook. 
-
-:+1: 
-
 **Now lets get started**
 
 # 2. Building blocks of Python
