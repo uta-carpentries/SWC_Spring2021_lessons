@@ -55,36 +55,11 @@ Python’s main advantages:
 * Supports multiple programming paradigms
 * Very large community with a rich ecosystem of third-party packages
 
-## Jupyter Notebook as IDE for Python
+## Google Colab as IDE for Python
 
-We will be working with Python using Jupyter Notebook. This is a piece of software (also known as integrated development environment, IDE) that makes working in Python much easier. 
+We will be working with google colab to learn Python.
 
-Now let us open our terminal or gitbash and type `cd`. This command takes you to your home directory. We will learn more linux commands later in the day.
-
-Now let us open Jupyter Notebook by typing `jupyter-notebook`/ `jupyter notebook` in the terminal/console/gitbash/cmd.
-
-Jupyter Notebook opens in your default browser with a list of files and directories in the home directory with this URl `http://localhost:8888/tree`  
-
-For this workshop, we will have all our files in `SWC_spring2018`. Navigate `Home-->Desktop-->SWC_spring2018-->Python_Basics` and hit New and click Python 3 to create a new file.
-
-Now remember my path will be slightly different because I want to share my file with you all everytime I save. So I have my files in Dropbox.
-
-:+1: 
-
-This opens up to the Notebook User Interface (UI). This has three areas.
-
-* Menubar 
-* Toolbar
-* Notebook area and cells
-
-We will learn more about these areas and their functions, as we move along. For now, let us get started with some basic math.
-
-We can add new cell using the `+` option in tool bar. Using the Edit Menu, delete or merge multiple cells together.
-Now, I will give you few minutes to get used to the GUI.
-
-Now, if a cell is highlighted in `green` :green_heart:, it means the cell is in `edit mode`. Thas is you can add, edit and delete contents of a cell like a normal text editor. But is If the cell is highlighted in `blue` :blue_heart:, it means the cell is in `command mode`. Here you can not add or modify contents of a particular cell, instead, you can work with the notebook as a whole. Its important to know that in command mode, the keys are mapped to different functions like to delete (DD) or merge cells (Shift+M).
-
- Now let us try the following commands one by one in `edit mode`. Type `3+5` and hit <kbd>Shift</kbd>+<kbd>Enter</kbd>
+ Now let us try the following commands. Type `3+5` and hit <kbd>Shift</kbd>+<kbd>Enter</kbd> or <kbd>Command</kbd>+<kbd>Enter</kbd>
 
 ```python
 3+5
